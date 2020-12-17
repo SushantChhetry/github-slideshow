@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our SushantChhetry slide!"
 ---
-This is SushantChhetry silde
+This is my awesome silde
 Use the left arrow to go back!
